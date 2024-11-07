@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# withdraw-Thanachai" 
 
-คิดไม่ออกจริงๆครับ อาจจะมีใช้แชทช่วยเรื่องการทำงานยัง งงๆ ไม่เข้าใจอยู่ครับ
+ผมคิดไม่ออกจริงๆครับ จะมีใช้แชทช่วยเรื่องการทำงาน ยัง งงๆ ไม่เข้าใจอยู่ครับ
